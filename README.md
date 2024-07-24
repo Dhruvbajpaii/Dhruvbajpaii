@@ -25,7 +25,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![](https://img.shields.io/badge/C--A8B9CC?style=for-the-badge&logo=C)](#)
+[![](https://img.shields.io/badge/java--A8B9CC?style=for-the-badge&logo=java)](#)
 [![](https://img.shields.io/badge/C++--00599C?style=for-the-badge&logo=C)](#) 
 [![](https://img.shields.io/badge/Python--3776AB?style=for-the-badge&logo=Python)](#) 
 [![](https://img.shields.io/badge/html--E34F26?style=for-the-badge&logo=HTML5)](#) 
