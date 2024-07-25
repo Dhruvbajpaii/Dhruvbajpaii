@@ -37,6 +37,7 @@
 [![](https://img.shields.io/badge/MongoDB--092E20?style=for-the-badge&logo=MongoDB)](#) 
 [![](https://img.shields.io/badge/MySQL--4479A1?style=for-the-badge&logo=MySQL)](#) 
 [![](https://img.shields.io/badge/Nextjs--FCC624?style=for-the-badge&logo=nextjs)](#)
+[![](https://img.shields.io/badge/NodeJs--A8B9CC?style=for-the-badge&logo=NodeJs)](#)
 
 
 
